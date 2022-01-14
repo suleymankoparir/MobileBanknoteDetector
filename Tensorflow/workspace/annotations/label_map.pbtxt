@@ -1,0 +1,100 @@
+item { 
+	name:'5TLFront'
+	id:1
+}
+item { 
+	name:'5TLBack'
+	id:2
+}
+item { 
+	name:'10TLFront'
+	id:3
+}
+item { 
+	name:'10TLBack'
+	id:4
+}
+item { 
+	name:'20TLFront'
+	id:5
+}
+item { 
+	name:'20TLBack'
+	id:6
+}
+item { 
+	name:'50TLFront'
+	id:7
+}
+item { 
+	name:'50TLBack'
+	id:8
+}
+item { 
+	name:'100TLFront'
+	id:9
+}
+item { 
+	name:'100TLBack'
+	id:10
+}
+item { 
+	name:'200TLFront'
+	id:11
+}
+item { 
+	name:'200TLBack'
+	id:12
+}
+item { 
+	name:'5USDFront'
+	id:13
+}
+item { 
+	name:'5USDBack'
+	id:14
+}
+item { 
+	name:'10EUROFront'
+	id:15
+}
+item { 
+	name:'10EUROBack'
+	id:16
+}
+item { 
+	name:'20EUROFront'
+	id:17
+}
+item { 
+	name:'20EUROBack'
+	id:18
+}
+item { 
+	name:'50EUROFront'
+	id:19
+}
+item { 
+	name:'50EUROBack'
+	id:20
+}
+item { 
+	name:'5KURUS'
+	id:21
+}
+item { 
+	name:'10KURUS'
+	id:22
+}
+item { 
+	name:'25KURUS'
+	id:23
+}
+item { 
+	name:'50KURUS'
+	id:24
+}
+item { 
+	name:'1TL'
+	id:25
+}
