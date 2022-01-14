@@ -1,0 +1,33 @@
+<annotation>
+  <folder>IMG</folder>
+  <filename>IMG_20211121_113232.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>320</width>
+    <height>320</height>
+    <depth />
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>100TLFront</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>169.73866666666666</xmin>
+      <ymin>117.89866666666667</ymin>
+      <xmax>297.7066666666667</xmax>
+      <ymax>177.96266666666668</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

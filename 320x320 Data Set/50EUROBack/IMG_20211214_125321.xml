@@ -1,0 +1,33 @@
+<annotation>
+  <folder>IMG</folder>
+  <filename>IMG_20211214_125321.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>320</width>
+    <height>320</height>
+    <depth />
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>50EUROBack</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>58.48533333333333</xmin>
+      <ymin>33.653333333333336</ymin>
+      <xmax>292.416</xmax>
+      <ymax>234.48533333333336</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>

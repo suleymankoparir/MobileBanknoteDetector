@@ -1,0 +1,33 @@
+<annotation>
+  <folder>IMG</folder>
+  <filename>IMG_20211214_133741.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>320</width>
+    <height>320</height>
+    <depth />
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>50KURUS</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>91.15733333333333</xmin>
+      <ymin>109.74933333333334</ymin>
+      <xmax>184.84266666666664</xmax>
+      <ymax>190.56</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>
